@@ -45,3 +45,6 @@ Inside utilities -> spacing
 - jumbotron
 - Button group
 - Modal - Cool alert box.
+
+### Popover
+- Somewhat like tooltip.
