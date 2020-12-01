@@ -1,3 +1,33 @@
+# Terms
+1. Breakpoints
+2. Colors
+3. Text 
+4. Displays
+5. Spacing
+
+
+```{dropdown} Here's my dropdown
+And here's my dropdown content
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="color:blue"> #####################################################<br>###
+<span style="font-size:24px"> PREVIOUS TUTS  </span>###<br>
+#####################################################</div>
 # Grid
 - Has total 12 columns.
 - must be inside class='row'
@@ -48,3 +78,5 @@ Inside utilities -> spacing
 
 ### Popover
 - Somewhat like tooltip.
+
+>input type=tel for phone numbers
